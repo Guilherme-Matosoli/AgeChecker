@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    text-decoration: 0;
+
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(63, 63, 240);
+
+    font: normal 15px sans-serif;
+
+    margin-top: 20px;
+}
+
+header{
+    color: #fff;
+
+    text-align: center;
+}
+
+section{
+
+    background: #fff;
+
+    width: 450px;
+
+    margin: auto;
+
+    border-radius: 10px;
+
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.481);    
+
+    text-align: center;
+}
+
+
+
+footer{
+    color: #fff;
+
+    text-align: center;
+}
+
+img#img{
+    padding: 0 0 0 100px;
+
+    width: 250px;
+    height: 250px;
+}
